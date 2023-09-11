@@ -8,7 +8,7 @@ import Root from './Root';
 // lazy load all the views
 
 // auth
-const Login = React.lazy(() => import('../pages/auth/Login'));
+const Login = React.lazy(() => import('../pages/authNew/Login'));
 const Logout = React.lazy(() => import('../pages/auth/Logout'));
 const Confirm = React.lazy(() => import('../pages/auth/Confirm'));
 const ForgetPassword = React.lazy(() => import('../pages/auth/ForgetPassword'));

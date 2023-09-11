@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import { Tab, Nav, Card,Form, Button,Table } from "react-bootstrap";
-import TotalIncome from "./tabs/autohub";
-import Classbook from "./tabs/classbook";
+// import TotalIncome from "./tabs/autohub";
+// import Classbook from "./tabs/classbook";
  
 const IndivisualIncome = () => {
  
@@ -23,11 +23,11 @@ const IndivisualIncome = () => {
 
                 <Tab.Content>
                   <Tab.Pane eventKey="tab1">
-                    <TotalIncome />
+                    {/* <TotalIncome /> */}
                   </Tab.Pane>
 
                   <Tab.Pane eventKey="tab2">
-                    <Classbook />
+                    {/* <Classbook /> */}
                   </Tab.Pane>
                 </Tab.Content>
              
