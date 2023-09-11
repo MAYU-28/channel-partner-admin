@@ -1,0 +1,79 @@
+.bg-gradient-pink{
+    background-image: linear-gradient(90deg,#f60e5b,#ff377a) !important;
+}
+.bg-gradient-grey{
+    background-image: linear-gradient(90deg,#d2d5d9,#d2d5d9) !important;
+}
+.bg-gradient-info {
+    background-image: linear-gradient(to bottom right,#69c7de 0,#008ce7) !important;
+}
+.bg-gradient-secondary {
+    background: linear-gradient(to bottom right,#4f9805 0,#5eba00);
+}
+.bg-gradient-purple {
+    background: linear-gradient(to bottom right,#5c509b,#5139d1);
+}
+.bg-gradient-danger {
+    background-image: linear-gradient(90deg,#ff8686 0,#d5111c);
+}
+.bg-gradient-primary {
+    background: linear-gradient(to bottom right,#0e98e6,#031ef7);
+}
+.bg-gradient-orange {
+    background-image: linear-gradient(90deg,#e84d19,#f8ac07);
+}
+.text-gradient-pink{
+    background: -webkit-linear-gradient(#f60e5b, #ff377a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient-primary{
+    background: -webkit-linear-gradient(#063ef3, #8fc8ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient-secondary{
+    background: -webkit-linear-gradient(#509b04, #b4c2a5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient-info{
+    background: -webkit-linear-gradient(#1c91df, #bbedff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text-gradient-info{
+    background: -webkit-linear-gradient(#1c91df, #bbedff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.table-responsive tr th {
+    background-image: linear-gradient(to bottom right,#f60e5b 0,#f60e5b);
+    color: #fff;
+}
+.table-responsive tr td {
+    border-bottom: 0.5px solid #f60e5b;
+}
+.table-responsive tr:last-child td{
+    border-bottom: 0px solid #f60e5b;
+}
+.table-responsive {
+    border-radius: 20px !important;
+    border: 1px solid #f60e5b;
+    padding: 0 !important;
+    background: #ffedf3;
+}
+.nav-tabs .nav-link.active {
+    background: #f60e5b !important;
+    color: #fff !important;
+}
+.tab-content {
+    border: 1px solid #f60e5b;
+    border-radius: 20px;
+    padding: 15px;
+    border-top-left-radius: 0;
+}
+ul.nav.nav-tabs li.nav-item {
+    background: #ffedf3;
+    border: 1px solid #f60e5b;
+}
